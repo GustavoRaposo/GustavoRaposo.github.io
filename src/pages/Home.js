@@ -5,7 +5,7 @@ export default function Home() {
 
     return (
         <Container>
-            <marquee><h1>Em construção</h1></marquee>
+            <h1>Em construção</h1>
         </Container>
     );
 }
