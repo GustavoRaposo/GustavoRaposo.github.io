@@ -7,11 +7,11 @@ const Footer = () => {
     <Container>
             <a href="https://www.linkedin.com/in/gustavofraposo/">
                 <FaLinkedin color='rgba(240, 100, 60)'/>
-                <span>/gustavofraposo</span>
+                <span>LinkedIn</span>
             </a>
             <a href="https://github.com/gustavoraposo">
                 <FaGithub color='rgba(240, 100, 60)'/>
-                <span>/gustavoraposo</span>
+                <span>Github</span>
             </a>
             <a href="https://wa.me/5541991892409">
                 <FaWhatsapp color='rgba(240, 100, 60)'/>
