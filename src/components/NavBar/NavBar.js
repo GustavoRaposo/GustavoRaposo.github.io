@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Nav, NavLink, Bars, NavMenu } from './NavBarElements'
+import { Nav, NavLink, Bars, NavMenu } from './Style'
 
 const Navbar = (props) => {
 
@@ -13,7 +13,7 @@ const Navbar = (props) => {
         <>
             <Nav>
                 <NavLink to="/">
-                    <h2>&#123;GustavoRaposo&#125;</h2>
+                    <h2>&lt;GustavoRaposo/&gt;</h2>
                 </NavLink>
                 <Bars open={open} onClick={updateMenuState}/>
                 <NavMenu open={open} onClick={updateMenuState}>
