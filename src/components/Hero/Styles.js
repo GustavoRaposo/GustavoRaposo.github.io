@@ -3,7 +3,7 @@ import heroImage from '../../assets/hero.jpg'
 
 export const Container = styled.div`
     width: 100%;
-    height: 92vh;
+    height: 75vh;
     overflow: hidden;
     background: linear-gradient(rgba(0,0,0, 0.9), rgba(0,0,00, 0.9)), url(${heroImage}) no-repeat center;
     background-size: cover;

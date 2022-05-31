@@ -1,11 +1,12 @@
 import React from 'react'
 import { Container } from './Style';
+import Hero from '../components/Hero/Hero'
 
 export default function Home() {
 
     return (
         <Container>
-            <h1>Em construção</h1>
+            <Hero title={"<GustavoRaposo/>"}/>
         </Container>
     );
 }
