@@ -114,10 +114,3 @@ export const NavButtonLink = styled(Link)`
     color: #010606;
   }
 `;
-
-export const Image = styled.img`
-  padding: 0.75 rem;
-  width: 100%;
-  max-width: 100px;
-  height: auto;
-`

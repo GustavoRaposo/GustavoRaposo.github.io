@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Nav, NavLink, Bars, NavMenu, Image } from './NavBarElements'
+import { Nav, NavLink, Bars, NavMenu } from './NavBarElements'
 
 const Navbar = (props) => {
 
