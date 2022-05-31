@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/gustavoraposo.github.io/static/js/main.12ec0bb3.js",
+    "main.js": "/gustavoraposo.github.io/static/js/main.8bf4a708.js",
+    "static/media/hero.jpg": "/gustavoraposo.github.io/static/media/hero.ab837a0b2c1702f4ed99.jpg",
     "index.html": "/gustavoraposo.github.io/index.html",
-    "main.12ec0bb3.js.map": "/gustavoraposo.github.io/static/js/main.12ec0bb3.js.map"
+    "main.8bf4a708.js.map": "/gustavoraposo.github.io/static/js/main.8bf4a708.js.map"
   },
   "entrypoints": [
-    "static/js/main.12ec0bb3.js"
+    "static/js/main.8bf4a708.js"
   ]
 }
