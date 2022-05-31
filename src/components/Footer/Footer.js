@@ -1,6 +1,6 @@
 import React from 'react'
 import { Container } from './Style';
-import { FaGithub, FaLinkedin, FaMailBulk, FaMapMarkerAlt, FaPhone, FaWhatsapp } from 'react-icons/fa'
+import { FaGithub, FaLinkedin, FaMailBulk, FaPhone, FaWhatsapp } from 'react-icons/fa'
 
 const Footer = () => {
   return (
