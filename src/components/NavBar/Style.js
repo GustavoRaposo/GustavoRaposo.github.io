@@ -6,7 +6,6 @@ export const Nav = styled.nav`
   overflow: hidden;
   position: fixed;
   top: 0;
-  background: rgb(41,0,30);
   background: rgb(36, 36, 36);
   width:100%;
   height: 10vh;
