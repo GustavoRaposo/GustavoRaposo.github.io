@@ -11,10 +11,10 @@ function Hero(props) {
                     loop={Infinity}
                     wrapper="span"
                     steps={[
-                        'Em construção', 1000,
-                        'Em construção.', 1000,
-                        'Em construção..', 1000,
-                        'Em construção...', 1000
+                        'Em construção', 250,
+                        'Em construção.', 250,
+                        'Em construção..', 250,
+                        'Em construção...', 250
                     ]}
                 />
             </Content>
