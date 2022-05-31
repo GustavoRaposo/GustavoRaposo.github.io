@@ -1,12 +1,10 @@
 {
   "files": {
-    "main.js": "/gustavoraposo.github.io/static/js/main.b5d0e499.js",
-    "static/js/787.e2488779.chunk.js": "/gustavoraposo.github.io/static/js/787.e2488779.chunk.js",
+    "main.js": "/gustavoraposo.github.io/static/js/main.6f011e94.js",
     "index.html": "/gustavoraposo.github.io/index.html",
-    "main.b5d0e499.js.map": "/gustavoraposo.github.io/static/js/main.b5d0e499.js.map",
-    "787.e2488779.chunk.js.map": "/gustavoraposo.github.io/static/js/787.e2488779.chunk.js.map"
+    "main.6f011e94.js.map": "/gustavoraposo.github.io/static/js/main.6f011e94.js.map"
   },
   "entrypoints": [
-    "static/js/main.b5d0e499.js"
+    "static/js/main.6f011e94.js"
   ]
 }
